@@ -1,4 +1,4 @@
-# Python Portfolio
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/80b73ff3-1328-4839-b2b4-7fc1abc2ce42" /># Python Portfolio
 
 This repository contains my Python practice projects for data analysis, machine learning, and web scraping.
 I created these notebooks while learning Python libraries commonly used in data science.
@@ -30,4 +30,5 @@ I created these notebooks while learning Python libraries commonly used in data 
   Web scraping using BeautifulSoup.
 
 ## Purpose
-The purpose of this repository is to document my learning process and build a portfolio for internships in data science and software engineering.
+The purpose of this repository is to document my learning process and build a portfolio for internships in data science and software engineering. I am currently studying python and preparing for technical internships.
+
