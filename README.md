@@ -1,1 +1,33 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[{"file_id":"117ILWW05EsyiqxM_c93T97lIPwQ1i9aA","timestamp":1772975689965}],"authorship_tag":"ABX9TyMnill6R00RKnGU/7+5LG+U"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"markdown","source":["#**Python Portfolio**\n","This repository contains my Python practice projects for data analysis, machine learning, and web scraping.\n","\n","I created these notebooks while learning Python libraries commonly used in data science.\n","\n","##**Skills**\n","Python\\\n","Numpy\\\n","Pandas\\\n","Matplotlib\\\n","Seaborn\\\n","scikit-learn\\\n","BeautifulSoup\\\n","spaCy/NLTK\n","\n","##**Project Structure**\n","**python_basis**\\\n","Basic numerical computing with Numpy and ColabTurtle.\n","\n","**data_analysis**\\\n","Data analysis using Pandas and data visualization with Matplotlib and Seaborn.\n","\n","**machine_learning**\\\n","Machine learning model training using scikit-learn.\n","\n","**nlp**\\\n","Natural language processing using spaCy and NLTK.\n","\n","**web_scraping**\\\n","Wedb scraping using BeautifulSoup.\n","\n","##**Purpose**\n","The purpose of this repository is to document my learning process and build a portfolio for internships in data science and software engineering. I am currently studying python and preparing for technical internships."],"metadata":{"id":"fywFi11lhx_o"}}]}
+# Python Portfolio
+
+This repository contains my Python practice projects for data analysis, machine learning, and web scraping.
+I created these notebooks while learning Python libraries commonly used in data science.
+
+## Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- BeautifulSoup
+- spaCy / NLTK
+
+## Project Structure
+- python_basics  
+  Basic numerical computing with NumPy and ColabTurtle.
+
+- data_analysis  
+  Data analysis using Pandas and visualization with Matplotlib and Seaborn.
+
+- machine_learning  
+  Training ML models using scikit-learn.
+
+- nlp  
+  Natural language processing using spaCy and NLTK.
+
+- web_scraping  
+  Web scraping using BeautifulSoup.
+
+## Purpose
+The purpose of this repository is to document my learning process and build a portfolio for internships in data science and software engineering.
